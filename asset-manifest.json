@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-1.0/static/css/main.4c42d8e9.css",
+    "main.js": "/Portfolio-1.0/static/js/main.33f1ef36.js",
+    "static/media/IRONMAN.png": "/Portfolio-1.0/static/media/IRONMAN.14a103218fd3b8aa284f.png",
+    "index.html": "/Portfolio-1.0/index.html",
+    "main.4c42d8e9.css.map": "/Portfolio-1.0/static/css/main.4c42d8e9.css.map",
+    "main.33f1ef36.js.map": "/Portfolio-1.0/static/js/main.33f1ef36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c42d8e9.css",
+    "static/js/main.33f1ef36.js"
+  ]
+}
